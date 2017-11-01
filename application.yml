@@ -9,4 +9,4 @@ logging:
     io:
       pivotal: DEBUG
 movies:
-  pagesize: 4
+  pagesize: 10

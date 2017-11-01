@@ -8,3 +8,5 @@ logging:
   level:
     io:
       pivotal: DEBUG
+movies:
+  pagesize: 4
